@@ -40,6 +40,6 @@
 >4. C++
 
 깃허브 주소:[https://github.com/inju7931/]  
-네이버 주소:[injuj7931@naver.com]
+
 
 
